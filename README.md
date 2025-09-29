@@ -1,5 +1,5 @@
 # 👋 Hola, soy Marcos Ortega
-<h3 align="center">Desarrollador Backend</h3>
+<h3 align="left">Desarrollador Backend</h3>
 
 ## 🚀 Actualmente aprendiendo
 - Java  
